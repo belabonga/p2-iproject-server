@@ -1,0 +1,4 @@
+ENDPOINTS
+
+/login
+/googleignin
