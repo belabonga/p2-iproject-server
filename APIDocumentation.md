@@ -1,4 +1,5 @@
 ENDPOINTS
 
-/login
-/googleignin
+/session/login
+/session/register
+/session/googleignin

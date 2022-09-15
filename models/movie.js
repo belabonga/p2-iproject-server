@@ -11,7 +11,7 @@ module.exports = (sequelize, DataTypes) => {
       });
       // MOVIE & GENRE
       Movie.belongsTo(models.Genre, {
-        foreignKey : "UserId"
+        foreignKey : "GenreId"
       });
     }
   }
